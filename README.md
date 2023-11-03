@@ -1,5 +1,5 @@
 # Archived
-To mitigate exposure from [vulnerabilities in the versions of Mirth Connect required for this repo](https://digital.nhs.uk/cyber-alerts/2023/cc-4400) this is now archived. The hard work of this repo's original author [**Frazer Smith**](https://github.com/Fdawgs) will become the foundations of its successor.
+To mitigate exposure from [vulnerabilities in the versions of Mirth Connect required for this repo](https://digital.nhs.uk/cyber-alerts/2023/cc-4400), this is now archived. The hard work of this repo's original author [**Frazer Smith**](https://github.com/Fdawgs) will become the foundations of its successor.
 ---
 <a href="https://somersetft.nhs.uk/yeovilhospital/">
 	<img alttext="Somerset NHSFT logo" src="https://raw.githubusercontent.com/Fdawgs/yh-fhir-listeners/main/docs/images/somerset-nhsft-logo-left-aligned-transparent-background.png" width="480" />
